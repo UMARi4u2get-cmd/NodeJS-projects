@@ -1,0 +1,22 @@
+{
+  "name": "adding-html-templates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UMARi4u2get-cmd/NodeJS-projects.git"
+  },
+  "author": "M. Umar Farooq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UMARi4u2get-cmd/NodeJS-projects/issues"
+  },
+  "homepage": "https://github.com/UMARi4u2get-cmd/NodeJS-projects#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
